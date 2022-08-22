@@ -20,3 +20,4 @@
 
 ## Notes
 * Make sure to create a dist folder if it is not present in the root directory
+* Set the environment variables either in a .env file or a server secrets setup
